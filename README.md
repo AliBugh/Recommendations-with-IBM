@@ -28,7 +28,7 @@ Finally, we will complete a machine learning approach to building recommendation
 
 ## File Descriptions <a name="file"></a>
 **Recommendations_with_IBM.ipynb** - Jupyter Notebook for project<br/>
-**project_test.py** - Python file contains solutions for test questions in the Jupyter Notebook.<br/>
+**ecommendations_with_IBM.html** - Jupyter Notebook as html page.<br/>
 
 ## Installation and Libraries Used <a name="ins"></a>
 This project requires Python 3.x and the following Python libraries installed:
