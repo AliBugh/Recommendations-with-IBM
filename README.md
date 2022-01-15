@@ -1,11 +1,11 @@
-# Recommendations with IBM Project (Udacity - Data Scientist Nanodegree Program)
+## Recommendations with IBM Project (Udacity - Data Scientist Nanodegree Program)
 ## Table of Contents
-1. [Introduction]
-2. [File Descriptions]
-3. [Installation and Libraries Used]
-4. [Acknowledgements]
+1. [Introduction](#int)
+2. [File Descriptions](#file)
+3. [Installation and Libraries Used](#ins)
+4. [Acknowledgements](#ack)
 
-## Introduction
+## Introduction <a name="int"></a>
 For this project will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles think they will like. 
 
 ### Our Tasks
@@ -26,11 +26,11 @@ Given the amount of content available for each article, there are a number of di
 #### v. Matrix Factorization<br/>
 Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using our decomposition, we will get an idea of how well we can predict new articles an individual might interact with (spoiler alert - it isn't great). we will finally discuss which methods we might use moving forward, and how we might test how well our recommendations are working for engaging users.
 
-## File Descriptions
+## File Descriptions <a name="file"></a>
 **Recommendations_with_IBM.ipynb** - Jupyter Notebook for project<br/>
 **project_test.py** - Python file contains solutions for test questions in the Jupyter Notebook.<br/>
 
-## Installation and Libraries Used
+## Installation and Libraries Used <a name="ins"></a>
 This project requires Python 3.x and the following Python libraries installed:
 - [Nltk](https://www.nltk.org/)
 - [Pandas](http://pandas.pydata.org)
@@ -38,6 +38,6 @@ This project requires Python 3.x and the following Python libraries installed:
 - [Seaborn](https://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-## Acknowledgements
+## Acknowledgements <a name="ack"></a>
 * [Udacity](https://www.udacity.com/) for providing an excellent Data Scientist training program.
 * [IBM](https://www.ibm.com/) for providing user interaction article dataset from IBM Watson Studio.
